@@ -329,4 +329,13 @@ nav a:hover{
     padding: 20px;
 }
 
+.decorado {
+text-align: center; 
+font-family: Arial Black; 
+font-weight: bold; 
+font-size: 30px; 
+color: #fff; 
+text-shadow: -1px 0 #000, 0 1px #000, 1px 0 #000, 0 -1px #000;
+}
+
 
